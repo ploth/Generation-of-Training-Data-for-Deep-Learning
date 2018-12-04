@@ -16,13 +16,17 @@ To contribute to the repository, you may add content through pull requests or op
 
 ## Table of Contents
 
-- [[Courses]]
-- [[Popular Augmentation Techniques]]
-- [[Texture Synthesis]]
+- [Courses](#courses)
+- [Popular Augmentation Techniques](#popular_augmentation_techniques)
+- [Texture Synthesis](#texture_synthesis)
+
+<a name="courses" />
 
 ## Courses
 
 TODO
+
+<a name="popular_augmentation_techniques" />
 
 ## Popular Augmentation Techniques
 
@@ -34,6 +38,7 @@ TODO
 - Noise
     - Gaussian
 
+<a name="texture_synthesis" />
 
 ## Texture Synthesis
 
