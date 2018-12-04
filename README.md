@@ -39,4 +39,4 @@ TODO
 
 ### Texture Synthesis Using Convolutional Neural Networks (2015) [[Paper]](https://arxiv.org/pdf/1505.07376.pdf)
 
-[[images/Texture_Synthesis_Using_Convolutional_Neural_Networks.jpeg]]
+<img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Texture_Synthesis_Using_Convolutional_Neural_Networks.jpeg" />
