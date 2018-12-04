@@ -8,7 +8,11 @@ this list is created while working on my master thesis.
 
 ## Get Involved
 
-To contribute, you may add content through pull requests or open an issue.
+We are on
+[[matrix]](https://matrix.to/#/!wrLaekACqBgSgVNoZo:matrix.org?via=matrix.org) to
+discuss, share knowledge and ask questions.
+
+To contribute to the repository, you may add content through pull requests or open an issue.
 
 ## Table of Contents
 
