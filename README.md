@@ -13,7 +13,8 @@ this list is created while working on my master thesis.
 
 ## Type
 
-- 🧱  Texture application
+- 🧱  Texture transfer
+- 🔬 Detail transfer
 - 📷 Photo modification
 - 🎥 Video modification
 
