@@ -82,3 +82,7 @@ TODO
 
 ## Style Transfer
 
+### 🧱  Unsupervised Texture Transfer from Images to Model Collections (2016) [[Paper]](http://ai.stanford.edu/~haosu/papers/siga16_texture_transfer_small.pdf)
+
+<p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unsupervised_Texture_Transfer_from_Images_to_Model_Collections.png" /></p>
+
