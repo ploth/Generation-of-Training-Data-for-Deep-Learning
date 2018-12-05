@@ -87,3 +87,6 @@ TODO
 
 <p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unsupervised_Texture_Transfer_from_Images_to_Model_Collections.png" /></p>
 
+### 🔬 Learning Detail Transfer based on Geometric Features (2017) [[Paper]](http://surfacedetails.cs.princeton.edu/)
+
+<p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Learning_Detail_Transfer_based_on_Geometric_Features.png" /></p>
