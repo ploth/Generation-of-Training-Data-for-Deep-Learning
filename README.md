@@ -6,6 +6,10 @@ generation of training data for deep learning procedures. Inspired by the
 timzhang642](https://github.com/timzhang642/3D-Machine-Learning#material_synthesis)
 this list is created while working on my master thesis. 
 
+- 🕷 ️GAN
+- 🖼 CNN
+- 📷 Photorealistic
+
 ## Get Involved
 
 We are on
