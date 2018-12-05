@@ -51,6 +51,10 @@ TODO
 
 <p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Texture_Synthesis_Using_Convolutional_Neural_Networks.jpeg" /></p>
 
+### High-Resolution Multi-Scale Neural Texture Synthesis (2017) [[Paper]](https://wxs.ca/research/multiscale-neural-synthesis/)
+
+<p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/High_Resolution_Multi-Scale_Neural_Texture_Synthesis.jpg" /></p>
+
 ### TextureGAN: Controlling Deep Image Synthesis with Texture Patches (2018 CVPR) [[Paper]](https://arxiv.org/pdf/1706.02823.pdf)
 
 <p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/TextureGAN_Controlling_Deep_Image_Synthesis_With_Texture_Patches.png" /></p>
@@ -63,14 +67,11 @@ TODO
 
 <p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Synthesized_Texture_Quality_Assessment_via_Multi-scale_Spatial_and_Statistical_Texture_Attributes_of_Image_and_Gradient_Magnitude_Coefficients.png" /></p>
 
-### PhotoShape: Photorealistic Materials for Large-Scale Shape Collections (2018) [[Paper]](https://keunhong.com/publications/photoshape/)
-
-<p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/PhotoShape_Photorealistic_Materials_for_Large-Scale_Shape_Collections.jpeg" /></p>
+<!-- ### PhotoShape: Photorealistic Materials for Large-Scale Shape Collections (2018) [[Paper]](https://keunhong.com/publications/photoshape/) -->
+<!--  -->
+<!-- <p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/PhotoShape_Photorealistic_Materials_for_Large-Scale_Shape_Collections.jpeg" /></p> -->
 
 <a name="style_transfer" />
 
 ## Style Transfer
 
-### High-Resolution Multi-Scale Neural Texture Synthesis (2017) [[Paper]](https://wxs.ca/research/multiscale-neural-synthesis/)
-
-<p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/High_Resolution_Multi-Scale_Neural_Texture_Synthesis.jpg" /></p>
