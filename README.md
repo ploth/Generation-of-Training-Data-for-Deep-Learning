@@ -1,24 +1,32 @@
 # Generation of Training Data for Deep Learning 
 
 This repository aims to give an overview of different techniques for the
-generation of training data for deep learning procedures. Inspired by the
-[3D-Machine-Learning overview by
+generation of training data for deep learning procedures.
+
+Inspired by the [3D-Machine-Learning overview by
 timzhang642](https://github.com/timzhang642/3D-Machine-Learning#material_synthesis)
 this list is created while working on my master thesis. 
 
-## Method Used
+## Requirements to Fulfill
+
+- It is likely that the generated data can be used for training.
+- Works without user assistance
+
+### Categories
+
+#### Method Used
 
 - :city_sunset: CNN
 - :couple: GAN
 
-## Type
+### Type
 
 - :rainbow: Texture transfer
 - :microscope: Detail transfer
 - :camera: Photo modification
 - :movie_camera: Video modification
 
-## Other
+### Other
 
 - :mans_shoe: 2D
 - :high_heel: 3D
