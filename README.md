@@ -21,9 +21,9 @@ this list is created while working on my master thesis.
 
 ### Type
 
-- :rainbow: Texture transfer
+- :rainbow: Texture application
 - :microscope: Detail transfer
-- :camera: Photo modification
+- :camera: Image modification
 - :movie_camera: Video modification
 
 ### Other
@@ -84,8 +84,9 @@ TODO
 
 <p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Synthesized_Texture_Quality_Assessment_via_Multi-scale_Spatial_and_Statistical_Texture_Attributes_of_Image_and_Gradient_Magnitude_Coefficients.png" /></p>
 
+
+<!-- The focus seems to be on the alignment of textures -->
 <!-- ### PhotoShape: Photorealistic Materials for Large-Scale Shape Collections (2018) [[Paper]](https://keunhong.com/publications/photoshape/) -->
-<!--  -->
 <!-- <p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/PhotoShape_Photorealistic_Materials_for_Large-Scale_Shape_Collections.jpeg" /></p> -->
 
 <a name="style_transfer" />
