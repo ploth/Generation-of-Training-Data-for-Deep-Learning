@@ -8,15 +8,20 @@ this list is created while working on my master thesis.
 
 ## Method Used
 
-- 🕷 ️GAN
-- 🖼 CNN
+- :city_sunset: CNN
+- :couple: GAN
 
 ## Type
 
-- 🧱  Texture transfer
-- 🔬 Detail transfer
-- 📷 Photo modification
-- 🎥 Video modification
+- :rainbow: Texture transfer
+- :microscope: Detail transfer
+- :camera: Photo modification
+- :movie_camera: Video modification
+
+## Other
+
+- :mans_shoe: 2D
+- :high_heel: 3D
 
 ## Get Involved
 
@@ -79,14 +84,14 @@ TODO
 
 ## Style Transfer
 
-### 🧱 TextureGAN: Controlling Deep Image Synthesis with Texture Patches (2018 CVPR) [[Paper]](https://arxiv.org/pdf/1706.02823.pdf)
+### :rainbow: :couple: :mans_shoe: TextureGAN: Controlling Deep Image Synthesis with Texture Patches (2018 CVPR) [[Paper]](https://arxiv.org/pdf/1706.02823.pdf)
 
 <p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/TextureGAN_Controlling_Deep_Image_Synthesis_With_Texture_Patches.png" /></p>
 
-### 🧱 Unsupervised Texture Transfer from Images to Model Collections (2016) [[Paper]](http://ai.stanford.edu/~haosu/papers/siga16_texture_transfer_small.pdf)
+### :rainbow: :high_heel: Unsupervised Texture Transfer from Images to Model Collections (2016) [[Paper]](http://ai.stanford.edu/~haosu/papers/siga16_texture_transfer_small.pdf)
 
 <p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unsupervised_Texture_Transfer_from_Images_to_Model_Collections.png" /></p>
 
-### 🔬 Learning Detail Transfer based on Geometric Features (2017) [[Paper]](http://surfacedetails.cs.princeton.edu/)
+### :microscope: :high_heel: Learning Detail Transfer based on Geometric Features (2017) [[Paper]](http://surfacedetails.cs.princeton.edu/)
 
 <p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Learning_Detail_Transfer_based_on_Geometric_Features.png" /></p>
