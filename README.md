@@ -168,7 +168,7 @@ TODO
 
 ## Training
 
-### Improved Techniques for Training GANs [[Paper]](https://arxiv.org/pdf/1606.03498.pdf)
+### Improved Techniques for Training GANs (2016) [[Paper]](https://arxiv.org/pdf/1606.03498.pdf)
 
 <a name="evaluation" />
 
