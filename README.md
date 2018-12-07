@@ -43,6 +43,7 @@ To contribute to the repository, you may add content through pull requests or op
 
 - [Courses](#courses)
 - [Popular Augmentation Techniques](#popular_augmentation_techniques)
+- [Domain Synthesis](#domain_synthesis)
 - [Texture Synthesis](#texture_synthesis)
 - [Style Transfer](#style_transfer)
 
@@ -63,6 +64,14 @@ TODO
 - Translation
 - Noise
     - Gaussian
+
+<a name="domain_synthesis" />
+
+## Domain Synthesis
+
+### Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization (2018) [[Paper]](https://arxiv.org/pdf/1804.06516.pdf)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Training_Deep_Networks_with_Synthetic_Data_Bridging_the_Reality_Gap_by_Domain_Randomization.png" /></div>
 
 <a name="texture_synthesis" />
 
