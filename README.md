@@ -43,10 +43,12 @@ To contribute to the repository, you may add content through pull requests or op
 
 - [Courses](#courses)
 - [Popular Augmentation Techniques](#popular_augmentation_techniques)
+- [Data Augmentation](#data_augmentation)
 - [Image Synthesis](#image_synthesis)
 - [Domain Synthesis](#domain_synthesis)
 - [Texture Synthesis](#texture_synthesis)
 - [Style Transfer](#style_transfer)
+- [Regularization](#regularization)
 
 <a name="courses" />
 
@@ -66,6 +68,13 @@ TODO
 - Noise
     - Gaussian
 
+<a name="data_augmentation" />
+
+## Data Augmentation
+
+### Data Augmentation using Random Image Cropping and Patching for Deep CNNs (2015) [[Paper]](https://arxiv.org/pdf/1811.09030.pdf)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Data_Augmentation_using_Random_Image_Cropping_and_Patching_for_Deep_CNNs.png" /></div>
 
 <a name="image_synthesis" />
 
@@ -143,3 +152,11 @@ TODO
 ### :camera: :couple: :mans_shoe: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [[Paper]](https://arxiv.org/pdf/1703.10593.pdf) [[Code (PyTorch)]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) [[Paper (Torch)]](https://github.com/junyanz/CycleGAN)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.jpg" /></div>
+
+<a name="regularization" />
+
+## Regularization
+
+### Improved Regularization of Convolutional Neural Networks with Cutout (2017) [[Paper]](https://arxiv.org/pdf/1708.04552.pdf) [[Code]](https://arxiv.org/pdf/1708.04552.pdf)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/" /></div>
