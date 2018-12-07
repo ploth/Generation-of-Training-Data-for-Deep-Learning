@@ -14,17 +14,17 @@ this list is created while working on my master thesis.
 
 ### Categories
 
-#### Method Used
-
-- :city_sunset: CNN
-- :couple: GAN
-
 ### Type
 
 - :rainbow: Texture application
 - :microscope: Detail transfer
 - :camera: Image modification
 - :movie_camera: Video modification
+
+#### Method Used
+
+- :city_sunset: CNN
+- :couple: GAN
 
 ### Other
 
