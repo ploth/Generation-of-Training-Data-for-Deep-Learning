@@ -162,7 +162,7 @@ TODO
 
 ### Improved Regularization of Convolutional Neural Networks with Cutout (2017) [[Paper]](https://arxiv.org/pdf/1708.04552.pdf) [[Code]](https://arxiv.org/pdf/1708.04552.pdf)
 
-<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/" /></div>
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Improved_Regularization_of_Convolutional_Neural_Networks_with_Cutout.png" /></div>
 
 <a name="training" />
 
