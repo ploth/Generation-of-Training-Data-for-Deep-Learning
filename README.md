@@ -49,6 +49,9 @@ To contribute to the repository, you may add content through pull requests or op
 - [Texture Synthesis](#texture_synthesis)
 - [Style Transfer](#style_transfer)
 - [Regularization](#regularization)
+- [Training](#training)
+- [Evaluation](#evaluation)
+    - [Inceptiopn Score](#inception_score)
 
 <a name="courses" />
 
@@ -160,3 +163,22 @@ TODO
 ### Improved Regularization of Convolutional Neural Networks with Cutout (2017) [[Paper]](https://arxiv.org/pdf/1708.04552.pdf) [[Code]](https://arxiv.org/pdf/1708.04552.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/" /></div>
+
+<a name="training" />
+
+## Training
+
+### Improved Techniques for Training GANs [[Paper]](https://arxiv.org/pdf/1606.03498.pdf)
+
+<a name="evaluation" />
+
+## Evaluation
+
+<a name="inception_score" />
+
+### Inception Score
+
+- [Inception Score — evaluating the realism of your GAN](https://sudomake.ai/inception-score-explained/)
+- [What is the rationale behind "Inception Score" as a metric for quality of generative models (e.g. GANs)?](https://www.quora.com/What-is-the-rationale-behind-Inception-Score-as-a-metric-for-quality-of-generative-models-e-g-GANs)
+
+#### A Note on the Inception Score (2018) [[Paper]](https://arxiv.org/pdf/1801.01973.pdf)
