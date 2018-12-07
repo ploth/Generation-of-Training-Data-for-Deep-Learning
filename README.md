@@ -116,3 +116,7 @@ TODO
 ### :camera: :mans_shoe: A Neural Algorithm of Artistic Style (2015) [[Paper]](https://arxiv.org/pdf/1508.06576.pdf)
 
 <p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/A_Neural_Algorithm_of_Artistic_Style.png" /></p>
+
+### :camera: :mans_shoe: Deep Photo Style Transfer (2017) [[Paper]](https://arxiv.org/pdf/1703.07511.pdf) [[Code]](https://github.com/luanfujun/deep-photo-styletransfer)
+
+<p align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Deepl_Photo_Style_Transfer.png" /></p>
