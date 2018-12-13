@@ -82,6 +82,10 @@ To contribute to the repository, you may add content through pull requests or op
 
 <a name="domain_synthesis" />
 
+###  Image-to-Image Translation with Conditional Adversarial Nets [[Paper]](https://arxiv.org/pdf/1611.07004.pdf) [[Code]](https://github.com/phillipi/pix2pix)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Image-to-Image_Translation_with_Conditional_Adversarial_Nets.png" /></div>
+
 ## Domain Synthesis
 
 ### Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization (2018) [[Paper]](https://arxiv.org/pdf/1804.06516.pdf)
