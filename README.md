@@ -41,9 +41,8 @@ To contribute to the repository, you may add content through pull requests or op
 
 ## Table of Contents
 
-- [Courses](#courses)
-- [Popular Augmentation Techniques](#popular_augmentation_techniques)
 - [Data Augmentation](#data_augmentation)
+    - [Popular Techniques](#popular_techniques)
 - [Image Synthesis](#image_synthesis)
 - [Domain Synthesis](#domain_synthesis)
 - [Texture Synthesis](#texture_synthesis)
@@ -53,15 +52,13 @@ To contribute to the repository, you may add content through pull requests or op
 - [Evaluation](#evaluation)
     - [Inceptiopn Score](#inception_score)
 
-<a name="courses" />
+<a name="data_augmentation" />
 
-## Courses
+## Data Augmentation
 
-TODO
+<a name="popular_techniques" />
 
-<a name="popular_augmentation_techniques" />
-
-## Popular Augmentation Techniques
+### Popular Techniques
 
 - Flip
 - Rotation
@@ -70,10 +67,6 @@ TODO
 - Translation
 - Noise
     - Gaussian
-
-<a name="data_augmentation" />
-
-## Data Augmentation
 
 ### Data Augmentation using Random Image Cropping and Patching for Deep CNNs (2015) [[Paper]](https://arxiv.org/pdf/1811.09030.pdf)
 
