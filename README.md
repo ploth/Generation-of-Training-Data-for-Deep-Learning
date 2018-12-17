@@ -153,6 +153,10 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.jpg" /></div>
 
+### :mans_shoe: Arbitrary Style Transfer with Style-Attentional Networks (2018) [[Paper]](https://arxiv.org/pdf/1812.02342v2.pdf)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Arbitrary_Style_Transfer_with_Style-Attentional_Networks.png" /></div>
+
 <a name="regularization" />
 
 ## Regularization
