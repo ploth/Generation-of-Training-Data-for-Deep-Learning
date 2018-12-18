@@ -78,7 +78,7 @@ To contribute to the repository, you may add content through pull requests or op
 
 ### Overview
 
-- [An Introduction to Image Synthesis with Generative Adversarial Nets](https://arxiv.org/pdf/1803.04469.pdf)
+- [An Introduction to Image Synthesis with Generative Adversarial Nets (2018)](https://arxiv.org/pdf/1803.04469.pdf)
 
 ### Large Scale GAN Training for High Fidelity Natural Image Synthesis (2018) [[Paper]](https://arxiv.org/pdf/1809.11096.pdf) [[Code/Live Demo]](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb#scrollTo=Cd1dhL4Ykbm7)
 
