@@ -88,6 +88,10 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Image-to-Image_Translation_with_Conditional_Adversarial_Nets.png" /></div>
 
+### Semi-parametric Image Synthesis (2018) [[Paper]](https://arxiv.org/pdf/1804.10992.pdf)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Semi-parametric_Image_Synthesis.png" /></div>
+
 <a name="domain_synthesis" />
 
 ## Domain Synthesis
