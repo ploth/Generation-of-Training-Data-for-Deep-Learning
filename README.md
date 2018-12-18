@@ -84,11 +84,11 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Large_Scale_GAN_Training_for_High_Fidelity_Natural_Image_Synthesis.png" /></div>
 
-<a name="domain_synthesis" />
-
 ###  Image-to-Image Translation with Conditional Adversarial Nets [[Website]](https://phillipi.github.io/pix2pix/) [[Paper]](https://arxiv.org/pdf/1611.07004.pdf) [[Code]](https://github.com/phillipi/pix2pix)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Image-to-Image_Translation_with_Conditional_Adversarial_Nets.png" /></div>
+
+<a name="domain_synthesis" />
 
 ## Domain Synthesis
 
