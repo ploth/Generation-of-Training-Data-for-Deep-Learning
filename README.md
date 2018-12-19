@@ -4,13 +4,15 @@ This repository aims to give an overview of different techniques for the
 generation of training data for deep learning procedures.
 
 Inspired by the [3D-Machine-Learning overview by
-timzhang642](https://github.com/timzhang642/3D-Machine-Learning#material_synthesis)
-this list is created while working on my master thesis. 
+timzhang642](https://github.com/timzhang642/3D-Machine-Learning#material_synthesis),
+I started making this list while working on my master thesis.
 
-## Requirements to Fulfill
+## List Requirements
 
-- It is likely that the generated data can be used for training.
-- Works without user assistance
+- The paper is relevant in the area of data generation.
+- Papers on data generation
+    - It is likely that the generated data can be used for training.
+    - Works without extensive user assistance.
 
 ### Categories
 
