@@ -98,6 +98,10 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Self-Attention_Generative_Adversarial_Networks.png" /></div>
 
+### A Style-Based Generator Architecture for Generative Adversarial Networks (2018) [[Paper]](https://arxiv.org/pdf/1812.04948.pdf) [[Video]](https://www.youtube.com/watch?v=kSLJriaOumA)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks.png" /></div>
+
 ### Conditional generative adversarial networks for convolutional face generation (2015) [[Paper]](http://cs231n.stanford.edu/reports/2015/pdfs/jgauthie_final_report.pdf) [[Code]](https://github.com/hans/adversarial)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Conditional_generative_adversarial_networks_for_convolutional_face_generation.png" /></div>
