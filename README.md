@@ -1,7 +1,9 @@
 # Generation of Training Data for Deep Learning 
 
-This repository aims to give an overview of different techniques for the
-generation of training data for deep learning procedures.
+The idea is to train deep neural networks with synthetic data in addition to
+regular training sets to improve the net performance. This repository aims to
+give an overview of different techniques which can be useful for generating
+training data.
 
 Inspired by the [3D-Machine-Learning overview by
 timzhang642](https://github.com/timzhang642/3D-Machine-Learning#material_synthesis),
