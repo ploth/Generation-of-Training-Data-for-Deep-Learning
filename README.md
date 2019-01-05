@@ -84,6 +84,10 @@ To contribute to the repository, you may add content through pull requests or op
 
 - [An Introduction to Image Synthesis with Generative Adversarial Nets (2018)](https://arxiv.org/pdf/1803.04469.pdf)
 
+### Instance-Aware Image-to-Image Translation (2019) [[Paper]](https://arxiv.org/pdf/1812.10889.pdf) [[Code]](https://github.com/sangwoomo/instagan) 
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Instance-Aware_Image-To-Image_Translation.png" /></div>
+
 ### Large Scale GAN Training for High Fidelity Natural Image Synthesis (2018) [[Paper]](https://arxiv.org/pdf/1809.11096.pdf) [[Code/Live Demo]](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb#scrollTo=Cd1dhL4Ykbm7)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Large_Scale_GAN_Training_for_High_Fidelity_Natural_Image_Synthesis.png" /></div>
