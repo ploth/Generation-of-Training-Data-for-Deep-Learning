@@ -96,6 +96,10 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Image-to-Image_Translation_with_Conditional_Adversarial_Nets.png" /></div>
 
+### High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (2018) [[Website]](https://tcwang0509.github.io/pix2pixHD/) [[Paper]](https://arxiv.org/pdf/1711.11585.pdf) [[Code]](https://github.com/NVIDIA/pix2pixHD) [[Video]](https://www.youtube.com/watch?v=3AIpPlzM_qs)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/High-Resolution_Image_Synthesis_and_Semantic_Manipulation_with_Conditional_GANs.png" /></div>
+
 ### Semi-parametric Image Synthesis (2018) [[Paper]](https://arxiv.org/pdf/1804.10992.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Semi-parametric_Image_Synthesis.png" /></div>
