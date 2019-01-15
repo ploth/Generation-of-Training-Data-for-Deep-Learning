@@ -22,7 +22,7 @@ I started making this list while working on my master thesis.
 
 ### Type
 
-- :pen: Supervised
+- :pencil: Supervised
 - :grey_question: Unsupervised/(Unpaired)
 
 #### Method Used
