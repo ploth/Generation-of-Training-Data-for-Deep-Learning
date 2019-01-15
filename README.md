@@ -47,6 +47,7 @@ To contribute to the repository, you may add content through pull requests or op
 
 - [Data Augmentation](#data_augmentation)
     - [Popular Techniques](#popular_techniques)
+    - [Increase Variance](#increase_variance)
 - [Image Synthesis](#image_synthesis)
 - [Domain Synthesis](#domain_synthesis)
 - [Texture Synthesis](#texture_synthesis)
@@ -71,6 +72,21 @@ To contribute to the repository, you may add content through pull requests or op
 - Translation
 - Noise
     - Gaussian
+
+<a name="increase_variance" />
+
+### Increase Variance
+
+- On single image
+    - Apply textures
+    - Change lighting
+    - Change object details
+    - Add random objects
+    - Change viewpoint
+    - Change background
+- On dataset
+    - Exchange segment patches within dataset
+    - Image synthesis
 
 ### Data Augmentation using Random Image Cropping and Patching for Deep CNNs (2015) [[Paper]](https://arxiv.org/pdf/1811.09030.pdf)
 
