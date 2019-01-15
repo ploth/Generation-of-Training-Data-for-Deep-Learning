@@ -99,6 +99,7 @@ To contribute to the repository, you may add content through pull requests or op
 ### Overview
 
 - [An Introduction to Image Synthesis with Generative Adversarial Nets (2018)](https://arxiv.org/pdf/1803.04469.pdf)
+- [A Survey of Image Synthesis and Editing with Generative Adversarial Networks (2017)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8195348&tag=1)
 
 ### Instance-Aware Image-to-Image Translation (2019) [[Paper]](https://arxiv.org/pdf/1812.10889.pdf) [[Code]](https://github.com/sangwoomo/instagan) 
 
