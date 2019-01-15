@@ -3,9 +3,9 @@
 The idea is to train deep neural networks with synthetic data only or in
 addition to regular training sets to improve the net performance. This
 repository aims to give an overview of different techniques which can be useful
-for generating training data.
+for generating 2D training data.
 
-Paper are ordered by their submission date.
+Papers are ordered by their submission date.
 
 Inspired by the [3D-Machine-Learning overview by
 timzhang642](https://github.com/timzhang642/3D-Machine-Learning#material_synthesis),
@@ -32,8 +32,6 @@ I started making this list while working on my master thesis.
 
 ### Other
 
-- :mans_shoe: 2D
-- :high_heel: 3D
 - :camera: Photorealistic
 
 ## Get Involved
@@ -52,7 +50,7 @@ To contribute to the repository, you may add content through pull requests or op
 - [Image Synthesis](#image_synthesis)
 - [Domain Synthesis](#domain_synthesis)
 - [Texture Synthesis](#texture_synthesis)
-- [Image to Image Translation](#image_to_image_translation)
+- [Image-to-Image Translation](#image_to_image_translation)
 - [Style Transfer](#style_transfer)
 - [Regularization](#regularization)
 - [Training](#training)
@@ -103,35 +101,19 @@ To contribute to the repository, you may add content through pull requests or op
 - [An Introduction to Image Synthesis with Generative Adversarial Nets (2018)](https://arxiv.org/pdf/1803.04469.pdf)
 - [A Survey of Image Synthesis and Editing with Generative Adversarial Networks (2017)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8195348&tag=1)
 
-### Instance-Aware Image-to-Image Translation (2018) [[Paper]](https://arxiv.org/pdf/1812.10889.pdf) [[Code]](https://github.com/sangwoomo/instagan) 
-
-<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Instance-Aware_Image-To-Image_Translation.png" /></div>
-
-### A Style-Based Generator Architecture for Generative Adversarial Networks (2018) [[Paper]](https://arxiv.org/pdf/1812.04948.pdf) [[Video]](https://www.youtube.com/watch?v=kSLJriaOumA)
+### :couple: :camera: A Style-Based Generator Architecture for Generative Adversarial Networks (2018) [[Paper]](https://arxiv.org/pdf/1812.04948.pdf) [[Video]](https://www.youtube.com/watch?v=kSLJriaOumA)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks.png" /></div>
 
-### Large Scale GAN Training for High Fidelity Natural Image Synthesis (2018) [[Paper]](https://arxiv.org/pdf/1809.11096.pdf) [[Code/Live Demo]](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb#scrollTo=Cd1dhL4Ykbm7)
+### :pencil: :couple: :camera: Large Scale GAN Training for High Fidelity Natural Image Synthesis (2018) [[Paper]](https://arxiv.org/pdf/1809.11096.pdf) [[Code/Live Demo]](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb#scrollTo=Cd1dhL4Ykbm7)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Large_Scale_GAN_Training_for_High_Fidelity_Natural_Image_Synthesis.png" /></div>
 
-### Self-Attention Generative Adversarial Networks (2018) [[Paper]](https://arxiv.org/pdf/1805.08318.pdf)
+### :grey_question: :couple: :camera: Self-Attention Generative Adversarial Networks (2018) [[Paper]](https://arxiv.org/pdf/1805.08318.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Self-Attention_Generative_Adversarial_Networks.png" /></div>
 
-### Semi-parametric Image Synthesis (2018) [[Paper]](https://arxiv.org/pdf/1804.10992.pdf) [[Code]](https://github.com/xjqicuhk/SIMS)
-
-<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Semi-parametric_Image_Synthesis.png" /></div>
-
-### High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (2018) [[Website]](https://tcwang0509.github.io/pix2pixHD/) [[Paper]](https://arxiv.org/pdf/1711.11585.pdf) [[Code]](https://github.com/NVIDIA/pix2pixHD) [[Video]](https://www.youtube.com/watch?v=3AIpPlzM_qs)
-
-<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/High-Resolution_Image_Synthesis_and_Semantic_Manipulation_with_Conditional_GANs.png" /></div>
-
-###  Image-to-Image Translation with Conditional Adversarial Nets (2017) [[Website]](https://phillipi.github.io/pix2pix/) [[Paper]](https://arxiv.org/pdf/1611.07004.pdf) [[Code]](https://github.com/phillipi/pix2pix)
-
-<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Image-to-Image_Translation_with_Conditional_Adversarial_Nets.png" /></div>
-
-### Conditional generative adversarial networks for convolutional face generation (2015) [[Paper]](http://cs231n.stanford.edu/reports/2015/pdfs/jgauthie_final_report.pdf) [[Code]](https://github.com/hans/adversarial)
+### :pencil: :couple: :camera: Conditional generative adversarial networks for convolutional face generation (2015) [[Paper]](http://cs231n.stanford.edu/reports/2015/pdfs/jgauthie_final_report.pdf) [[Code]](https://github.com/hans/adversarial)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Conditional_generative_adversarial_networks_for_convolutional_face_generation.png" /></div>
 
@@ -165,45 +147,53 @@ To contribute to the repository, you may add content through pull requests or op
 
 <a name="style_transfer" />
 
+<a name="image_to_image_translation" />
+
+## Image-to-Image Translation
+
+### Instance-Aware Image-to-Image Translation (2018) [[Paper]](https://arxiv.org/pdf/1812.10889.pdf) [[Code]](https://github.com/sangwoomo/instagan) 
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Instance-Aware_Image-To-Image_Translation.png" /></div>
+
+### :pencil: :couple: :camera: Semi-parametric Image Synthesis (2018) [[Paper]](https://arxiv.org/pdf/1804.10992.pdf) [[Code]](https://github.com/xjqicuhk/SIMS)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Semi-parametric_Image_Synthesis.png" /></div>
+
+### :pencil: :couple: :camera: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (2018) [[Website]](https://tcwang0509.github.io/pix2pixHD/) [[Paper]](https://arxiv.org/pdf/1711.11585.pdf) [[Code]](https://github.com/NVIDIA/pix2pixHD) [[Video]](https://www.youtube.com/watch?v=3AIpPlzM_qs)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/High-Resolution_Image_Synthesis_and_Semantic_Manipulation_with_Conditional_GANs.png" /></div>
+
+### :pencil: :couple: :camera: Image-to-Image Translation with Conditional Adversarial Nets (2017) [[Website]](https://phillipi.github.io/pix2pix/) [[Paper]](https://arxiv.org/pdf/1611.07004.pdf) [[Code]](https://github.com/phillipi/pix2pix)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Image-to-Image_Translation_with_Conditional_Adversarial_Nets.png" /></div>
+
 ## Style Transfer
 
-### :mans_shoe: Arbitrary Style Transfer with Style-Attentional Networks (2018) [[Paper]](https://arxiv.org/pdf/1812.02342v2.pdf)
+### Arbitrary Style Transfer with Style-Attentional Networks (2018) [[Paper]](https://arxiv.org/pdf/1812.02342v2.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Arbitrary_Style_Transfer_with_Style-Attentional_Networks.png" /></div>
 
-### :mans_shoe: Photo-realistic Facial Texture Transfer (2017) [[Paper]](https://arxiv.org/pdf/1706.04306.pdf)
+### Photo-realistic Facial Texture Transfer (2017) [[Paper]](https://arxiv.org/pdf/1706.04306.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Photo-realistic_Facial_Texture_Transfer.png" /></div>
 
-### :couple: :mans_shoe: TextureGAN: Controlling Deep Image Synthesis with Texture Patches (2017) [[Paper]](https://arxiv.org/pdf/1706.02823.pdf)
+### :couple:  TextureGAN: Controlling Deep Image Synthesis with Texture Patches (2017) [[Paper]](https://arxiv.org/pdf/1706.02823.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/TextureGAN_Controlling_Deep_Image_Synthesis_With_Texture_Patches.png" /></div>
 
-### :mans_shoe: Exploring the structure of a real-time, arbitrary neural artistic stylization network (2017) [[Paper]](https://arxiv.org/pdf/1705.06830.pdf) [[Code]](https://github.com/tensorflow/magenta/tree/master/magenta/models/arbitrary_image_stylization) [[Live Demo]](https://reiinakano.github.io/arbitrary-image-stylization-tfjs/) [[Code (Live Demo)]](Arbitrary Style Transfer in the Browser)
+### Exploring the structure of a real-time, arbitrary neural artistic stylization network (2017) [[Paper]](https://arxiv.org/pdf/1705.06830.pdf) [[Code]](https://github.com/tensorflow/magenta/tree/master/magenta/models/arbitrary_image_stylization) [[Live Demo]](https://reiinakano.github.io/arbitrary-image-stylization-tfjs/) [[Code (Live Demo)]](Arbitrary Style Transfer in the Browser)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Exploring_the_structure_of_a_real-time_arbitrary_neural_artistic_stylization_network.png" /></div>
 
-### :couple: :mans_shoe: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [[Paper]](https://arxiv.org/pdf/1703.10593.pdf) [[Code (PyTorch)]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) [[Code (Torch)]](https://github.com/junyanz/CycleGAN)
+### :couple:  Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [[Paper]](https://arxiv.org/pdf/1703.10593.pdf) [[Code (PyTorch)]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) [[Code (Torch)]](https://github.com/junyanz/CycleGAN)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.jpg" /></div>
 
-### :mans_shoe: Deep Photo Style Transfer (2017) [[Paper]](https://arxiv.org/pdf/1703.07511.pdf) [[Code]](https://github.com/luanfujun/deep-photo-styletransfer)
+### Deep Photo Style Transfer (2017) [[Paper]](https://arxiv.org/pdf/1703.07511.pdf) [[Code]](https://github.com/luanfujun/deep-photo-styletransfer)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Deepl_Photo_Style_Transfer.png" /></div>
 
-### :high_heel: Learning Detail Transfer based on Geometric Features (2017) [[Paper]](http://surfacedetails.cs.princeton.edu/)
-
-<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Learning_Detail_Transfer_based_on_Geometric_Features.png" /></div>
-
-### :high_heel: Neural 3D Mesh Renderer (2017) [[Paper]](http://hiroharu-kato.com/projects_en/neural_renderer.html) [[Code]](https://github.com/hiroharu-kato/neural_renderer.git)
-
-<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Neural_3D_Mesh_Renderer.jpeg" /></div>
-
-### :high_heel: Unsupervised Texture Transfer from Images to Model Collections (2016) [[Paper]](http://ai.stanford.edu/~haosu/papers/siga16_texture_transfer_small.pdf)
-
-<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unsupervised_Texture_Transfer_from_Images_to_Model_Collections.png" /></div>
-
-### :mans_shoe: A Neural Algorithm of Artistic Style (2015) [[Paper]](https://arxiv.org/pdf/1508.06576.pdf)
+### A Neural Algorithm of Artistic Style (2015) [[Paper]](https://arxiv.org/pdf/1508.06576.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/A_Neural_Algorithm_of_Artistic_Style.png" /></div>
 
