@@ -22,10 +22,8 @@ I started making this list while working on my master thesis.
 
 ### Type
 
-- :rainbow: Texture application
-- :microscope: Detail transfer
-- :camera: Image modification
-- :movie_camera: Video modification
+- :pen: Supervised
+- :grey_question: Unsupervised/(Unpaired)
 
 #### Method Used
 
@@ -36,6 +34,7 @@ I started making this list while working on my master thesis.
 
 - :mans_shoe: 2D
 - :high_heel: 3D
+- :camera: Photorealistic
 
 ## Get Involved
 
@@ -53,6 +52,7 @@ To contribute to the repository, you may add content through pull requests or op
 - [Image Synthesis](#image_synthesis)
 - [Domain Synthesis](#domain_synthesis)
 - [Texture Synthesis](#texture_synthesis)
+- [Image to Image Translation](#image_to_image_translation)
 - [Style Transfer](#style_transfer)
 - [Regularization](#regularization)
 - [Training](#training)
@@ -171,39 +171,39 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Arbitrary_Style_Transfer_with_Style-Attentional_Networks.png" /></div>
 
-### :microscope: :mans_shoe: Photo-realistic Facial Texture Transfer (2017) [[Paper]](https://arxiv.org/pdf/1706.04306.pdf)
+### :mans_shoe: Photo-realistic Facial Texture Transfer (2017) [[Paper]](https://arxiv.org/pdf/1706.04306.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Photo-realistic_Facial_Texture_Transfer.png" /></div>
 
-### :rainbow: :couple: :mans_shoe: TextureGAN: Controlling Deep Image Synthesis with Texture Patches (2017) [[Paper]](https://arxiv.org/pdf/1706.02823.pdf)
+### :couple: :mans_shoe: TextureGAN: Controlling Deep Image Synthesis with Texture Patches (2017) [[Paper]](https://arxiv.org/pdf/1706.02823.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/TextureGAN_Controlling_Deep_Image_Synthesis_With_Texture_Patches.png" /></div>
 
-### :camera: :mans_shoe: Exploring the structure of a real-time, arbitrary neural artistic stylization network (2017) [[Paper]](https://arxiv.org/pdf/1705.06830.pdf) [[Code]](https://github.com/tensorflow/magenta/tree/master/magenta/models/arbitrary_image_stylization) [[Live Demo]](https://reiinakano.github.io/arbitrary-image-stylization-tfjs/) [[Code (Live Demo)]](Arbitrary Style Transfer in the Browser)
+### :mans_shoe: Exploring the structure of a real-time, arbitrary neural artistic stylization network (2017) [[Paper]](https://arxiv.org/pdf/1705.06830.pdf) [[Code]](https://github.com/tensorflow/magenta/tree/master/magenta/models/arbitrary_image_stylization) [[Live Demo]](https://reiinakano.github.io/arbitrary-image-stylization-tfjs/) [[Code (Live Demo)]](Arbitrary Style Transfer in the Browser)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Exploring_the_structure_of_a_real-time_arbitrary_neural_artistic_stylization_network.png" /></div>
 
-### :camera: :couple: :mans_shoe: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [[Paper]](https://arxiv.org/pdf/1703.10593.pdf) [[Code (PyTorch)]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) [[Code (Torch)]](https://github.com/junyanz/CycleGAN)
+### :couple: :mans_shoe: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [[Paper]](https://arxiv.org/pdf/1703.10593.pdf) [[Code (PyTorch)]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) [[Code (Torch)]](https://github.com/junyanz/CycleGAN)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.jpg" /></div>
 
-### :camera: :mans_shoe: Deep Photo Style Transfer (2017) [[Paper]](https://arxiv.org/pdf/1703.07511.pdf) [[Code]](https://github.com/luanfujun/deep-photo-styletransfer)
+### :mans_shoe: Deep Photo Style Transfer (2017) [[Paper]](https://arxiv.org/pdf/1703.07511.pdf) [[Code]](https://github.com/luanfujun/deep-photo-styletransfer)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Deepl_Photo_Style_Transfer.png" /></div>
 
-### :microscope: :high_heel: Learning Detail Transfer based on Geometric Features (2017) [[Paper]](http://surfacedetails.cs.princeton.edu/)
+### :high_heel: Learning Detail Transfer based on Geometric Features (2017) [[Paper]](http://surfacedetails.cs.princeton.edu/)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Learning_Detail_Transfer_based_on_Geometric_Features.png" /></div>
 
-### :rainbow: :high_heel: Neural 3D Mesh Renderer (2017) [[Paper]](http://hiroharu-kato.com/projects_en/neural_renderer.html) [[Code]](https://github.com/hiroharu-kato/neural_renderer.git)
+### :high_heel: Neural 3D Mesh Renderer (2017) [[Paper]](http://hiroharu-kato.com/projects_en/neural_renderer.html) [[Code]](https://github.com/hiroharu-kato/neural_renderer.git)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Neural_3D_Mesh_Renderer.jpeg" /></div>
 
-### :rainbow: :high_heel: Unsupervised Texture Transfer from Images to Model Collections (2016) [[Paper]](http://ai.stanford.edu/~haosu/papers/siga16_texture_transfer_small.pdf)
+### :high_heel: Unsupervised Texture Transfer from Images to Model Collections (2016) [[Paper]](http://ai.stanford.edu/~haosu/papers/siga16_texture_transfer_small.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unsupervised_Texture_Transfer_from_Images_to_Model_Collections.png" /></div>
 
-### :camera: :mans_shoe: A Neural Algorithm of Artistic Style (2015) [[Paper]](https://arxiv.org/pdf/1508.06576.pdf)
+### :mans_shoe: A Neural Algorithm of Artistic Style (2015) [[Paper]](https://arxiv.org/pdf/1508.06576.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/A_Neural_Algorithm_of_Artistic_Style.png" /></div>
 
