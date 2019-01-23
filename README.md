@@ -155,7 +155,7 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.jpg" /></div>
 
-### :pencil: :camera: Image-to-Image Translation with Conditional Adversarial Nets (2017) [[Website]](https://phillipi.github.io/pix2pix/) [[Paper]](https://arxiv.org/pdf/1611.07004.pdf) [[Code]](https://github.com/phillipi/pix2pix)
+### :pencil: :camera: Image-to-Image Translation with Conditional Adversarial Nets (2017) [[Website]](https://phillipi.github.io/pix2pix/) [[Paper]](https://arxiv.org/pdf/1611.07004.pdf) [[Code]](https://github.com/phillipi/pix2pix) [[Live Demo]](https://affinelayer.com/pixsrv/)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Image-to-Image_Translation_with_Conditional_Adversarial_Nets.png" /></div>
 
