@@ -151,7 +151,7 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/High-Resolution_Image_Synthesis_and_Semantic_Manipulation_with_Conditional_GANs.png" /></div>
 
-### Toward Multimodal Image-to-Image Translation (2017) [[Website]](https://junyanz.github.io/BicycleGAN/) [[Paper]](https://arxiv.org/pdf/1711.11586.pdf) [[Code (PyTorch)]](https://github.com/junyanz/BicycleGAN) [[Code (TensorFlow)]](https://github.com/gitlimlab/BicycleGAN-Tensorflow) [[Video]](https://www.youtube.com/watch?v=JvGysD2EFhw)
+### :pencil: :camera: Toward Multimodal Image-to-Image Translation (2017) [[Website]](https://junyanz.github.io/BicycleGAN/) [[Paper]](https://arxiv.org/pdf/1711.11586.pdf) [[Code (PyTorch)]](https://github.com/junyanz/BicycleGAN) [[Code (TensorFlow)]](https://github.com/gitlimlab/BicycleGAN-Tensorflow) [[Video]](https://www.youtube.com/watch?v=JvGysD2EFhw)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Toward_Multimodal_Image-to-Image_Translation.jpg" /></div>
 
