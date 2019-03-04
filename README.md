@@ -80,7 +80,7 @@ To contribute to the repository, you may add content through pull requests or op
 - [An Introduction to Image Synthesis with Generative Adversarial Nets (2018)](https://arxiv.org/pdf/1803.04469.pdf)
 - [A Survey of Image Synthesis and Editing with Generative Adversarial Networks (2017)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8195348&tag=1)
 
-### NAM: Non-Adversarial Unsupervised Domain Mapping (2018) [[Paper]](https://arxiv.org/pdf/1806.00804.pdf)
+### NAM: Non-Adversarial Unsupervised Domain Mapping (2018) [[Paper]](https://arxiv.org/pdf/1806.00804.pdf) [[Code]](https://github.com/facebookresearch/nam)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/NAM:_Non-Adversarial_Unsupervised_Domain_Mapping.png" /></div>
 
