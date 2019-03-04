@@ -108,6 +108,10 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Training_Deep_Networks_with_Synthetic_Data_Bridging_the_Reality_Gap_by_Domain_Randomization.png" /></div>
 
+### Generative Semantic Manipulation with Contrasting GAN (2017) [[Paper]](https://arxiv.org/pdf/1708.00315.pdf)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Generative_Semantic_Manipulation_with_Contrasting_GAN.png" /></div>
+
 <a name="texture_synthesis" />
 
 ## Texture Synthesis
@@ -132,9 +136,17 @@ To contribute to the repository, you may add content through pull requests or op
 
 ## Image-to-Image Translation
 
+### Harmonic Unpaired Image-to-Image Translation (2019) [[Paper]](https://openreview.net/pdf?id=S1M6Z2Cctm)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Harmonic_Unpaired_Image-to-Image_Translation.png.png" /></div>
+
 ###  Instance-Aware Image-to-Image Translation (2018) [[Paper]](https://arxiv.org/pdf/1812.10889.pdf) [[Code]](https://github.com/sangwoomo/instagan) 
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Instance-Aware_Image-To-Image_Translation.png" /></div>
+
+### Attention-GAN for Ob ject Transfiguration in Wild Images (2018) [[Paper]](https://arxiv.org/pdf/1803.06798.pdf)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Attention-GAN_for_Ob_ject_Transfiguration_in_Wild_Images.png" /></div>
 
 ###  High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (2017) [[Website]](https://tcwang0509.github.io/pix2pixHD/) [[Paper]](https://arxiv.org/pdf/1711.11585.pdf) [[Code]](https://github.com/NVIDIA/pix2pixHD) [[Video]](https://www.youtube.com/watch?v=3AIpPlzM_qs)
 
