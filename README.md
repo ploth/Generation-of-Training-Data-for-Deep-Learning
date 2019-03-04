@@ -180,6 +180,10 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.jpg" /></div>
 
+### Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (2017) [[paper]](https://arxiv.org/pdf/1703.05192.pdf)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Learning_to_Discover_Cross-Domain_Relations_with_Generative_Adversarial_Networks.png" /></div>
+
 ### Unsupervised Image-to-Image Translation Networks (2017) [[Paper]](https://arxiv.org/pdf/1703.00848.pdf) [[Code]](https://github.com/mingyuliutw/unit)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unsupervised_Image-to-Image_Translation_Networks.png" /></div>
