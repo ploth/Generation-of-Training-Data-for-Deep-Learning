@@ -144,7 +144,7 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Instance-Aware_Image-To-Image_Translation.png" /></div>
 
-### Attention-GAN for Ob ject Transfiguration in Wild Images (2018) [[Paper]](https://arxiv.org/pdf/1803.06798.pdf)
+### Attention-GAN for Object Transfiguration in Wild Images (2018) [[Paper]](https://arxiv.org/pdf/1803.06798.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Attention-GAN_for_Ob_ject_Transfiguration_in_Wild_Images.png" /></div>
 
