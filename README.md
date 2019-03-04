@@ -31,6 +31,7 @@ To contribute to the repository, you may add content through pull requests or op
 - [Texture Synthesis](#texture_synthesis)
 - [Image-to-Image Translation](#image_to_image_translation)
 - [Style Transfer](#style_transfer)
+- [Overviews](#overviews)
 - [Regularization](#regularization)
 - [Training](#training)
 - [Evaluation](#evaluation)
@@ -223,6 +224,12 @@ To contribute to the repository, you may add content through pull requests or op
 ### A Neural Algorithm of Artistic Style (2015) [[Paper]](https://arxiv.org/pdf/1508.06576.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/A_Neural_Algorithm_of_Artistic_Style.png" /></div>
+
+<a name="Overviews" />
+
+## Overviews
+
+### Generative Adversarial Networks: An Overview [[Paper]](https://arxiv.org/pdf/1710.07035.pdf)
 
 <a name="regularization" />
 
