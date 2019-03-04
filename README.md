@@ -152,6 +152,10 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Diverse_Image-to-Image_Translation_via_Disentangled_Representations.png" /></div>
 
+### Unsupervised Attention-guided Image-to-Image Translation (2018) [[Paper]](https://arxiv.org/pdf/1806.02311.pdf) [[Code (TensorFlow)]](https://github.com/AlamiMeti/Unsupervised-Attention-guided-Image-to-Image-Translation) [[Code (PyTorch)]](https://github.com/alokwhitewolf/Pytorch-Attention-Guided-CycleGAN)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unsupervised_Attention-guided_Image-to-Image_Translation.jpg" /></div>
+
 ### Show, Attend and Translate: Unsupervised Image Translation with Self-Regularization and Attention (2018) [[Paper]](https://arxiv.org/pdf/1806.06195.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Show,_Attend_and_Translate:_Unsupervised_Image_Translation_with_Self-Regularization_and_Attention.png" /></div>
