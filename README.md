@@ -172,6 +172,10 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Toward_Multimodal_Image-to-Image_Translation.jpg" /></div>
 
+### StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (2017) [[Paper]](https://arxiv.org/pdf/1711.09020.pdf)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/StarGAN:_Unified_Generative_Adversarial_Networks_for_Multi-Domain_Image-to-Image_Translation.png" /></div>
+
 ###  Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (2017) [[Paper]](https://arxiv.org/pdf/1703.10593.pdf) [[Code (PyTorch)]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) [[Code (Torch)]](https://github.com/junyanz/CycleGAN)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.jpg" /></div>
