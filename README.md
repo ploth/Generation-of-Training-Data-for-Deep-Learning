@@ -1,7 +1,7 @@
 # Generation of Training Data for Deep Learning 
 
 The idea is to train deep neural networks with synthetic data only or in
-addition to regular training sets to improve the net performance. This
+addition to regular training data to improve the net performance. This
 repository aims to give an overview of different techniques which can be useful
 for generating 2D training data.
 
