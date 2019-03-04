@@ -138,7 +138,7 @@ To contribute to the repository, you may add content through pull requests or op
 
 ### Harmonic Unpaired Image-to-Image Translation (2019) [[Paper]](https://openreview.net/pdf?id=S1M6Z2Cctm)
 
-<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Harmonic_Unpaired_Image-to-Image_Translation.png.png" /></div>
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Harmonic_Unpaired_Image-to-Image_Translation.png" /></div>
 
 ###  Instance-Aware Image-to-Image Translation (2018) [[Paper]](https://arxiv.org/pdf/1812.10889.pdf) [[Code]](https://github.com/sangwoomo/instagan) 
 
