@@ -161,6 +161,10 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Show,_Attend_and_Translate:_Unsupervised_Image_Translation_with_Self-Regularization_and_Attention.png" /></div>
 
+### Exemplar Guided Unsupervised Image-to-Image Translation with Semantic Consistency (2018) [[Paper]](https://arxiv.org/pdf/1805.11145.pdf)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Exemplar_Guided_Unsupervised_Image-to-Image_Translation_with_Semantic_Consistency.png" /></div>
+
 ### Attention-GAN for Object Transfiguration in Wild Images (2018) [[Paper]](https://arxiv.org/pdf/1803.06798.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Attention-GAN_for_Ob_ject_Transfiguration_in_Wild_Images.png" /></div>
