@@ -180,6 +180,10 @@ To contribute to the repository, you may add content through pull requests or op
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks.jpg" /></div>
 
+### Unsupervised Image-to-Image Translation Networks (2017) [[Paper]](https://arxiv.org/pdf/1703.00848.pdf) [[Code]](https://github.com/mingyuliutw/unit)
+
+<div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/Unsupervised_Image-to-Image_Translation_Networks.png" /></div>
+
 ### DualGAN: Unsupervised Dual Learning for Image-to-Image Translation (2017) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yi_DualGAN_Unsupervised_Dual_ICCV_2017_paper.pdf)
 
 <div align="center"><img width="50%" src="https://gitlab.com/ploth/generation-of-training-data-for-deep-learning/raw/master/images/DualGAN:_Unsupervised_Dual_Learning_for_Image-to-Image_Translation.png" /></div>
